@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: faad4efe3cb9bf34d84fc8bdda60b0a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2949967084658593245
+    second: Smiley The Jester assests page 2_0
+  - first:
+      213: 5023125162681891107
+    second: Smiley The Jester assests page 2_1
+  - first:
+      213: 4565507355924194579
+    second: Smiley The Jester assests page 2_2
+  - first:
+      213: 6959257644200258831
+    second: Smiley The Jester assests page 2_3
+  - first:
+      213: 6121359134759557248
+    second: Smiley The Jester assests page 2_4
+  - first:
+      213: 8278477599645961372
+    second: Smiley The Jester assests page 2_5
+  - first:
+      213: 5190304037888491100
+    second: Smiley The Jester assests page 2_6
+  - first:
+      213: 5642380158549319152
+    second: Smiley The Jester assests page 2_7
+  - first:
+      213: -1507988639529742714
+    second: Smiley The Jester assests page 2_8
+  - first:
+      213: 2418071462989444979
+    second: Smiley The Jester assests page 2_9
+  - first:
+      213: 211601976051181622
+    second: Smiley The Jester assests page 2_10
+  - first:
+      213: 1571690218981298198
+    second: Smiley The Jester assests page 2_11
+  - first:
+      213: 9213466628321495795
+    second: Smiley The Jester assests page 2_12
+  - first:
+      213: -8536182708665323976
+    second: Smiley The Jester assests page 2_13
+  - first:
+      213: 4772035447282498981
+    second: Smiley The Jester assests page 2_14
+  - first:
+      213: 7484373428281693027
+    second: Smiley The Jester assests page 2_15
+  - first:
+      213: 7719073795174988745
+    second: Smiley The Jester assests page 2_16
+  - first:
+      213: -8920683567548002800
+    second: Smiley The Jester assests page 2_17
+  - first:
+      213: -7889153939828727243
+    second: Smiley The Jester assests page 2_18
+  - first:
+      213: 3134946548101539998
+    second: Smiley The Jester assests page 2_19
+  - first:
+      213: 2924445275652750082
+    second: Smiley The Jester assests page 2_20
+  - first:
+      213: 5025102157307082297
+    second: Smiley The Jester assests page 2_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Smiley The Jester assests page 2_0
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 3571
+        width: 381
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd8b241f6360f820800000000000000
+      internalID: 2949967084658593245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smiley The Jester assests page 2_1
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 3547
+        width: 193
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329faf7c8b9b5b540800000000000000
+      internalID: 5023125162681891107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smiley The Jester assests page 2_2
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 3319
+        width: 659
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3156b4940c0fb5f30800000000000000
+      internalID: 4565507355924194579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smiley The Jester assests page 2_3
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 3313
+        width: 750
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d6af6a4ff349060800000000000000
+      internalID: 6959257644200258831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smiley The Jester assests page 2_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2598
+        width: 1230
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0889fe163bf63f450800000000000000
+      internalID: 6121359134759557248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smiley The Jester assests page 2_5
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 2390
+        width: 594
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c0deff38f03e270800000000000000
+      internalID: 8278477599645961372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smiley The Jester assests page 2_6
+      rect:
+        serializedVersion: 2
+        x: 3422
+        y: 2527
+        width: 512
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e7e96e50aa70840800000000000000
+      internalID: 5190304037888491100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smiley The Jester assests page 2_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1616
+        width: 3211
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd5b0e0cd2cd4e40800000000000000
+      internalID: 5642380158549319152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smiley The Jester assests page 2_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1041
+        width: 696
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e418f625c821be0800000000000000
+      internalID: -1507988639529742714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smiley The Jester assests page 2_9
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 833
+        width: 303
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377bef02f27be8120800000000000000
+      internalID: 2418071462989444979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smiley The Jester assests page 2_10
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 1276
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6382d4840e2cfe200800000000000000
+      internalID: 211601976051181622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smiley The Jester assests page 2_11
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 828
+        width: 335
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610165f4de3cfc510800000000000000
+      internalID: 1571690218981298198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smiley The Jester assests page 2_12
+      rect:
+        serializedVersion: 2
+        x: 3782
+        y: 1265
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fac40b551fccdf70800000000000000
+      internalID: 9213466628321495795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smiley The Jester assests page 2_13
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 1194
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83eeb289d03698980800000000000000
+      internalID: -8536182708665323976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smiley The Jester assests page 2_14
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 827
+        width: 366
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad78dab4fca93240800000000000000
+      internalID: 4772035447282498981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smiley The Jester assests page 2_15
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 49
+        width: 701
+        height: 878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3635a17aaf5ddd760800000000000000
+      internalID: 7484373428281693027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smiley The Jester assests page 2_16
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 147
+        width: 317
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb7e6428b8af1b60800000000000000
+      internalID: 7719073795174988745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smiley The Jester assests page 2_17
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 596
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e03a22f8d533480800000000000000
+      internalID: -8920683567548002800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smiley The Jester assests page 2_18
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 149
+        width: 317
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532a22e4a48148290800000000000000
+      internalID: -7889153939828727243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smiley The Jester assests page 2_19
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 598
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98ed6d9641918b20800000000000000
+      internalID: 3134946548101539998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smiley The Jester assests page 2_20
+      rect:
+        serializedVersion: 2
+        x: 3178
+        y: 150
+        width: 313
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bf95cdb77b59820800000000000000
+      internalID: 2924445275652750082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smiley The Jester assests page 2_21
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 591
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9367656b9cfbcb540800000000000000
+      internalID: 5025102157307082297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Smiley The Jester assests page 2_0: 2949967084658593245
+      Smiley The Jester assests page 2_1: 5023125162681891107
+      Smiley The Jester assests page 2_10: 211601976051181622
+      Smiley The Jester assests page 2_11: 1571690218981298198
+      Smiley The Jester assests page 2_12: 9213466628321495795
+      Smiley The Jester assests page 2_13: -8536182708665323976
+      Smiley The Jester assests page 2_14: 4772035447282498981
+      Smiley The Jester assests page 2_15: 7484373428281693027
+      Smiley The Jester assests page 2_16: 7719073795174988745
+      Smiley The Jester assests page 2_17: -8920683567548002800
+      Smiley The Jester assests page 2_18: -7889153939828727243
+      Smiley The Jester assests page 2_19: 3134946548101539998
+      Smiley The Jester assests page 2_2: 4565507355924194579
+      Smiley The Jester assests page 2_20: 2924445275652750082
+      Smiley The Jester assests page 2_21: 5025102157307082297
+      Smiley The Jester assests page 2_3: 6959257644200258831
+      Smiley The Jester assests page 2_4: 6121359134759557248
+      Smiley The Jester assests page 2_5: 8278477599645961372
+      Smiley The Jester assests page 2_6: 5190304037888491100
+      Smiley The Jester assests page 2_7: 5642380158549319152
+      Smiley The Jester assests page 2_8: -1507988639529742714
+      Smiley The Jester assests page 2_9: 2418071462989444979
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
